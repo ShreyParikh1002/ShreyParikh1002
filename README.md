@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shrey Parikh
-- 🌱 I’m currently learning Web Development and practising DSA
+- 🌱 I’m currently learning App and Web Development and practising DSA
 - 📫 Reach me at shreyparikh1002@gmail.com
 
 <!---
