@@ -61,12 +61,10 @@
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api?username=shreyparikh1002&show_icons=true&locale=en"
-        alt="shreyparikh1002" /></p>
-
+        alt="shreyparikh1002" width="300"/></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyparikh1002&"
-        alt="shreyparikh1002" /></p>
-<br>
-<h1 align='center'><i>Happy coding :)</i></h1>
+        alt="shreyparikh1002" width="300"/></p>
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
