@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="300" height="200" margin-right="100"
     src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 💬 Ask me about **Android development**
 
 - 🔭 I’m currently working on my app **Scooby**
 
