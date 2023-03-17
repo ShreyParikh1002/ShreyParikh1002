@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Shrey Parikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="25px"></h1>
-<img align="right" alt="Coding" width="300" height="200" margin-right="100"
-    src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <h2 align="left">Android Developer</h2>
+<img align="right" alt="Coding" width="220" height="120" margin-right="100"
+    src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 Currently working on my app **Scooby**
 
