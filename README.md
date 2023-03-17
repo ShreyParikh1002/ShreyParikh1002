@@ -22,12 +22,10 @@
             alt="https://codeforces.com/profile/shrey1002" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 <p><img align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyparikh1002&show_icons=true&locale=en&layout=compact"
         alt="shreyparikh1002" /></p>
-
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
@@ -59,10 +57,10 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40" /> </a> </p>
 
-<p><img align="left"
+<p><img
         src="https://github-readme-stats.vercel.app/api?username=shreyparikh1002&show_icons=true&locale=en"
         alt="shreyparikh1002" width="300"/></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyparikh1002&"
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyparikh1002&"
         alt="shreyparikh1002" width="300"/></p>
 
 <p align="center">
