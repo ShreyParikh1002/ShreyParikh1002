@@ -48,7 +48,7 @@
         alt="shreyparikh1002" width="300" align="center" style="margin:0.5rem"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyparikh1002&show_icons=true&theme=radical&locale=en&layout=compact"
         alt="shreyparikh1002" align="center" style="margin:5 rem"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyparikh1002&theme=gotham"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyparikh1002&theme=radical"
         alt="shreyparikh1002" width="300" align="center" style="margin:0.5rem"/>
 </p>
 
