@@ -44,7 +44,7 @@
 </p>
 <hr>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreyparikh1002&show_icons=true&theme=solarized-light&locale=en"
+<img src="https://github-readme-stats.vercel.app/api?username=shreyparikh1002&show_icons=true&theme=gotham&locale=en"
         alt="shreyparikh1002" width="300" align="center" style="margin:0.5rem"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyparikh1002&show_icons=true&theme=radical&locale=en&layout=compact"
         alt="shreyparikh1002" align="center" style="margin:5 rem"/>
