@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm Shrey Parikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="25px"></h1>
+<p align="center">
+<img src="https://github.com/ShreyParikh1002/ShreyParikh1002/blob/main/banner.png" height="300" width="800" align="center"/>
+</p>
 
-<h3 align="center">Android Developer</h3>
 <p align="center">🔭 Currently working on my app <b>Scooby</b></p>
 <p align="center">🌱 Learning <b>React </b>as well</p>
 <p align="center">📫 Reach me at <b>shreyparikh1002@gmail.com</b></p>
@@ -46,10 +47,12 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shreyparikh1002&show_icons=true&theme=radical&locale=en"
         alt="shreyparikh1002" width="300" align="center" style="margin:0.5rem"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyparikh1002&show_icons=true&theme=radical&locale=en&layout=compact"
-        alt="shreyparikh1002" align="center" style="margin:5 rem"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyparikh1002&theme=radical"
         alt="shreyparikh1002" width="300" align="center" style="margin:0.5rem"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyparikh1002&show_icons=true&theme=radical&locale=en&layout=compact"
+        alt="shreyparikh1002" align="center" style="margin:5 rem"/>
 </p>
 
 <h3 align="center">Connect with me:</h3>
