@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ShreyParikh1002/ShreyParikh1002/blob/main/banner-modified.png" height="300" width="auto" align="center" style="border-radius:50%"/>
+<img src="https://github.com/ShreyParikh1002/ShreyParikh1002/blob/main/banner.png" height="300" width="auto" align="center" style="border-radius:50%"/>
 </p>
 
 <p align="center">🔭 Currently working on my app <b>Scooby</b></p>
