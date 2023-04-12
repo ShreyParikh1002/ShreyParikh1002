@@ -49,7 +49,7 @@
         alt="shreyparikh1002" align="center" style="margin:0.5rem"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyparikh1002&show_icons=true&theme=radical&locale=en&layout=compact"
+<img src="https://github-readme-stats-kappa-red-96.vercel.app/api/top-langs?username=shreyparikh1002&show_icons=true&theme=radical&locale=en&layout=compact"
         alt="shreyparikh1002" align="center" style="margin:5 rem"/>
 </p>
 <p align="center">
