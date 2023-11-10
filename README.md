@@ -23,7 +23,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
         alt="android" width="40" height="40" /> </a>
 <a href="https://github.com/ShreyParikh1002/Scooby" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+        src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java"
         width="40" height="40" /> </a>
 <a href="https://github.com/ShreyParikh1002/Scooby" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
