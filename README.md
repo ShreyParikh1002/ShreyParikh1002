@@ -63,12 +63,12 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/shrey-k-parikh/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/shrey-k-parikh/" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/shrey1002" target="blank"><img align="center"
+            src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
+            alt="https://www.linkedin.com/in/shrey-k-parikh/" height="50" width="50" /></a>
+<!--     <a href="https://codeforces.com/profile/shrey1002" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-            alt="https://codeforces.com/profile/shrey1002" height="30" width="40" /></a>
+            alt="https://codeforces.com/profile/shrey1002" height="30" width="40" /></a> -->
 </p>
-<p align="center">
+<!-- <p align="center">
     <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+</p> -->
